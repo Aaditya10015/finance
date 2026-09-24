@@ -355,18 +355,5 @@ Possible improvements include:
 * [ ] Allow users to compare different investment scenarios
 * [ ] Add a database to store previous reports
 
----
 
-## ⚠️ Disclaimer
-
-This project is created for **educational and demonstration purposes only**. The investment suggestions and projected returns produced by the program are simplified calculations and should not be considered professional financial advice.
-
-Actual investment returns can vary depending on market conditions, fees, taxes, inflation, and other factors.
-
----
-
-## 👨‍💻 Author
-
-**Aadi**
-
-### ⭐ If you found this project useful, consider giving the repository a star!
+the repository a star!
